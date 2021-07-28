@@ -1,6 +1,6 @@
 {
   "name": "wxc_gulp_workflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A static site development workflow",
   "keywords": [
     "pages-tasks",
@@ -19,7 +19,7 @@
     "url": "https://github.com/henji-1122/wxc_gulp_workflow#readme"
   },
   "main": "lib/index.js",
-  "bin": "bin/x-pages.js",
+  "bin": "bin/wxc_gulp_workflow.js",
   "scripts": {
     "format": "prettier --write \"**/*.js\"",
     "lint": "standard",
