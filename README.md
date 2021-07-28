@@ -92,7 +92,7 @@ Clean the `dist` & `temp` files.
 
 #### Examples
 
-- [chongchong/workflow-boilerplate#wxc_gulp_workflow](https://github.com/henji-1122/wxc_gulp_workflow_example) - wxc_gulp_workflow examples
+- [虫虫/wxc_gulp_workflow_template#wxc_gulp_workflow](https://github.com/henji-1122/wxc_gulp_workflow_template) - wxc_gulp_workflow examples
 
 #### Folder Structure
 
