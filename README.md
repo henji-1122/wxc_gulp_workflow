@@ -1,14 +1,10 @@
 ### wxc_gulp_workflow
-###### static web app workflow (gulp) __ By Wangxc
+> static web app workflow (gulp) __ By Wangxc
 
-
-[![Build Status][travis-image]][travis-url] [![NPM Downloads][downloads-image]][downloads-url] [![NPM Version][version-image]][version-url] [![License][license-image]][license-url] [![Dependency Status][dependency-image]][dependency-url] [![devDependency Status][devdependency-image]][devdependency-url] [![Code Style][style-image]][style-url]
-
-> A static site development workflow (Convention over Configuration)
 
 #### Installation
 
-```shell
+```js
 $ yarn add wxc_gulp_workflow --dev
 
 # or npm
